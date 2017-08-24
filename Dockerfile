@@ -1,4 +1,4 @@
-FROM rcvr
+FROM microsoft/windowsservercore
 
 LABEL Description="Ruby Programming Language for Windows" Vendor="Ruby" Version="2.2.4-x64"
 
